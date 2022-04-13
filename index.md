@@ -73,7 +73,7 @@ Event Date | Event Mode | Time | Topic | Speaker
 
 
 ## Upcoming Events
-    Comming soon
+    How to Self learn for Cyber security 16th April 2022 10 AM GMeet
     
 Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
