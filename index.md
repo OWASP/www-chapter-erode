@@ -69,8 +69,8 @@ Event Date | Event Mode | Time | Topic | Speaker
 4 July 2021 | On-line | 5:00PM IST | XML External Entity (XXE) | Monish Kumar
 25 July 2021 | On-line | 5:00PM IST | Methodologies and Approach to start Bug Bounty Hunting | Tushar Verma
 27 November 2021 | On-line | 5:00AM IST | JVM Reverse Engineering Introduction | Abhinivesh S
-05 February 2022 | On-line | 6:PM IST | OSINT 101 | Bathrinathan N
-
+05 February 2022 | On-line | 6:00PM IST | OSINT 101 | Bathrinathan N
+22 May 2022 | On-line | 6:00PM IST | Prototype Pollution | Godson 
 
 ## Upcoming Events
     How to Self learn for Cyber security 16th April 2022 10 AM GMeet
