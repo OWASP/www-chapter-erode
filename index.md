@@ -73,7 +73,7 @@ Event Date | Event Mode | Time | Topic | Speaker
 22 May 2022 | On-line | 6:00PM IST | Prototype Pollution | Godson 
 
 ## Upcoming Events
-    How to Self learn for Cyber security 16th April 2022 10 AM GMeet
+    Hacker diaries series, check our #Meetup page for updates
     
 Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
