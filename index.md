@@ -73,7 +73,9 @@ Event Date | Event Mode | Time | Topic | Speaker
 22 May 2022 | On-line | 6:00PM IST | Prototype Pollution | Godson 
 
 ## Upcoming Events
-    Hacker diaries series, check our #Meetup page for updates
+    27 April, 2023 Infosec Meetup at Erode (Physical Mode)
+    venue will be fixed soon
+    
     
 Check out this Meetup Group in Erode: https://www.meetup.com/owasp-erode/ #Meetup #Erode via @Meetup 
 
