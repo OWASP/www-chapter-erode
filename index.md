@@ -73,7 +73,7 @@ Event Date | Event Mode | Time | Topic | Speaker
 22 May 2022 | On-line | 6:00PM IST | Prototype Pollution | Godson 
 
 ## Upcoming Events
-    27 April, 2023 Infosec Meetup at Erode (Physical Mode)
+    27 July, 2023 CTF at Erode (Physical Mode)
     venue will be fixed soon
     
     
