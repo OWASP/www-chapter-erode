@@ -71,9 +71,9 @@ Event Date | Event Mode | Time | Topic | Speaker
 27 November 2021 | On-line | 5:00AM IST | JVM Reverse Engineering Introduction | Abhinivesh S
 05 February 2022 | On-line | 6:00PM IST | OSINT 101 | Bathrinathan N
 22 May 2022 | On-line | 6:00PM IST | Prototype Pollution | Godson 
-
+27 July | On-line | 5:00PM IST | Mini CTF | OWASP Erode Team
 ## Upcoming Events
-    27 July, 2023 CTF at Erode (Physical Mode)
+    Septmber, Erode ( offline )
     venue will be fixed soon
     
     
