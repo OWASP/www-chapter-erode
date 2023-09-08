@@ -72,6 +72,7 @@ Event Date | Event Mode | Time | Topic | Speaker
 05 February 2022 | On-line | 6:00PM IST | OSINT 101 | Bathrinathan N
 22 May 2022 | On-line | 6:00PM IST | Prototype Pollution | Godson 
 27 July 2023 | On-line | 5:00PM IST | Mini CTF | OWASP Erode Team
+
 ## Upcoming Events
     Septmber, Erode ( offline )
     venue will be fixed soon
